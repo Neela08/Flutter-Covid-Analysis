@@ -1,16 +1,13 @@
-# rest_api_102
+# Flutter Covid Analysis
 
-A new Flutter application.
+An application to track daily covid-19 update, built with API endpoint data that updates dynamically. Used flutter http package to consume HTTP resources.
 
-## Getting Started
+![Screenshot_20210103-233429](https://user-images.githubusercontent.com/69322639/103485129-73940d00-4e1e-11eb-8c9b-9444663cb8be.jpg)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20210103-233442](https://user-images.githubusercontent.com/69322639/103485131-74c53a00-4e1e-11eb-9604-62dec4678d81.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210103-233504](https://user-images.githubusercontent.com/69322639/103485132-77c02a80-4e1e-11eb-8a78-a1746e9ab41d.jpg)
+
+
